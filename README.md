@@ -1,3 +1,3 @@
-# A simple application deployed in heroku
+# A simple Node.js application deployed in heroku
 
-URL  : https://herokulearn-app.herokuapp.com/
+tutorial  : https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction
